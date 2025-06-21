@@ -61,7 +61,7 @@ Me chamo Rubens Pereira da Silva, tenho 18 anos e sou de São Paulo. Estou cursa
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api?username=Rubens-Pereira-Silva&show_icons=true&theme=tokyonight&locale=pt-br"
     />
-
+<br/>
 <img
     align="left"
     alt="Github Status"
