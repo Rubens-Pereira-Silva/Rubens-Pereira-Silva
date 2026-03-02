@@ -1,8 +1,7 @@
 # 👨🏽‍💻 Rubens Pereira
 
 **`Desenvolvedor Frontend`**
-
-Me chamo Rubens Pereira da Silva, tenho 18 anos e sou de São Paulo. Estou cursando o curso técnico em Jogos Digitais e, ao finalizá-lo, pretendo iniciar o ensino superior em Ciência da Computação.
+Me chamo Rubens Pereira da Silva, tenho 19 anos e sou de São Paulo. Estou cursando Ciências da Comunicação.
 
 ---
 
@@ -29,8 +28,8 @@ Me chamo Rubens Pereira da Silva, tenho 18 anos e sou de São Paulo. Estou cursa
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
@@ -39,8 +38,8 @@ Me chamo Rubens Pereira da Silva, tenho 18 anos e sou de São Paulo. Estou cursa
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -49,8 +48,8 @@ Me chamo Rubens Pereira da Silva, tenho 18 anos e sou de São Paulo. Estou cursa
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="git"
+    title="git"
     width="35px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
