@@ -22,7 +22,7 @@ Me chamo Rubens Pereira da Silva, tenho 19 anos e sou de São Paulo. Estou cursa
     title="Spring"
     width="35px"
     style="padding-right: 10px"
-    src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <img
