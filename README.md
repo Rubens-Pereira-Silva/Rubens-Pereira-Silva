@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Rubens Pereira
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Backend`**
 Me chamo Rubens Pereira da Silva, tenho 19 anos e sou de São Paulo. Estou cursando Ciências da Comunicação.
 
 ---
